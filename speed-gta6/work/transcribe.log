@@ -1,0 +1,18 @@
+  transcribing locally with faster-whisper 'base' (first run downloads the model)...
+  6%
+  12%
+  19%
+  25%
+  31%
+  37%
+  43%
+  49%
+  55%
+  61%
+  67%
+  73%
+  79%
+  85%
+  91%
+  97%
+3146 words, 501 lines via faster-whisper (base, en) -> work/transcript.json, transcript.txt; 12 loud moment(s) -> work/peaks.txt

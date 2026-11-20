@@ -1,0 +1,147 @@
+{
+ "video": "../source.mp4",
+ "video_sha256": "e4e2db163466b9b557501fbb4350df3ca3aa6d6617541359619fdf66b67fff03",
+ "campaign": null,
+ "clips": [
+  {
+   "id": "01-tiger",
+   "account": "Clip 1",
+   "file": "clip-01-tiger.mp4",
+   "sha256": "4a5a42913083db5482988d65b91d69d6f750f4c88f9839ce03b52130133be9d9",
+   "bytes": 20910718,
+   "seconds": 31.3,
+   "window": [
+    1058.0,
+    1091.0
+   ],
+   "ranges": [
+    [
+     1059.38,
+     1090.71
+    ]
+   ],
+   "framing": "stack",
+   "hook": "Speed finds a TIGER in GTA 6",
+   "on_screen": {
+    "disclosure": null,
+    "disclosure_seconds": 0,
+    "watermark": null
+   },
+   "cover": "clip-01-tiger-cover.jpg"
+  },
+  {
+   "id": "02-plane",
+   "account": "Clip 2",
+   "file": "clip-02-plane.mp4",
+   "sha256": "cd49fd4c82df0d9e92483a3f6e110ee4f9b70c2d895fadde9be0fbe716e4a5e8",
+   "bytes": 25469417,
+   "seconds": 39.9,
+   "window": [
+    1592.0,
+    1653.0
+   ],
+   "ranges": [
+    [
+     1592.4,
+     1599.39
+    ],
+    [
+     1605.6,
+     1628.6
+    ],
+    [
+     1643.0,
+     1652.91
+    ]
+   ],
+   "framing": "stack",
+   "hook": "Speed flies a plane with zero clue",
+   "on_screen": {
+    "disclosure": null,
+    "disclosure_seconds": 0,
+    "watermark": null
+   },
+   "cover": "clip-02-plane-cover.jpg"
+  },
+  {
+   "id": "03-real",
+   "account": "Clip 3",
+   "file": "clip-03-real.mp4",
+   "sha256": "82acd3a2315dfde209b2be84188d19677760f3ecf94c7ef10931390139fbfd06",
+   "bytes": 22542405,
+   "seconds": 41.5,
+   "window": [
+    1976.5,
+    2020.0
+   ],
+   "ranges": [
+    [
+     1977.4,
+     2018.89
+    ]
+   ],
+   "framing": "stack",
+   "hook": "Speed can't believe GTA 6 is real",
+   "on_screen": {
+    "disclosure": null,
+    "disclosure_seconds": 0,
+    "watermark": null
+   },
+   "cover": "clip-03-real-cover.jpg"
+  },
+  {
+   "id": "04-son",
+   "account": "Clip 4",
+   "file": "clip-04-son.mp4",
+   "sha256": "c30358e31901a14ea2fedd0dd7da8595475c625cc7c48e6aa926ff27cf90e8ff",
+   "bytes": 16503128,
+   "seconds": 25.0,
+   "window": [
+    775.0,
+    801.0
+   ],
+   "ranges": [
+    [
+     775.24,
+     800.27
+    ]
+   ],
+   "framing": "stack",
+   "hook": "Speed just found out he has a son",
+   "on_screen": {
+    "disclosure": null,
+    "disclosure_seconds": 0,
+    "watermark": null
+   },
+   "cover": "clip-04-son-cover.jpg"
+  },
+  {
+   "id": "05-stickup",
+   "account": "Clip 5",
+   "file": "clip-05-stickup.mp4",
+   "sha256": "975a867ed7761eb052462d4e9a75a409f2f172843de20906f3abdb2db63f7126",
+   "bytes": 28520387,
+   "seconds": 39.2,
+   "window": [
+    254.0,
+    294.5
+   ],
+   "ranges": [
+    [
+     255.05,
+     294.29
+    ]
+   ],
+   "framing": "stack",
+   "hook": "GTA 6's first robbery goes crazy",
+   "on_screen": {
+    "disclosure": null,
+    "disclosure_seconds": 0,
+    "watermark": null
+   },
+   "cover": "clip-05-stickup-cover.jpg"
+  }
+ ],
+ "contactSheet": "contact-sheet.jpg",
+ "warnings": []
+}

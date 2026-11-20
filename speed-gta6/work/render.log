@@ -1,0 +1,7 @@
+  clip 01-tiger: 31.3 s, stack
+  clip 02-plane: 39.9 s, stack
+  clip 03-real: 41.5 s, stack
+  clip 04-son: 25.0 s, stack
+  clip 05-stickup: 39.2 s, stack
+5 clip(s) in clips/, manifest: clips/manifest.json, contact sheet: clips/contact-sheet.jpg
+next: write clipjob.json (one post per account) and run check_clips.py on it

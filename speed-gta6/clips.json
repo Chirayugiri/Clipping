@@ -1,0 +1,140 @@
+{
+ "video": "source.mp4",
+ "style": {
+  "accent": "#FFD43B",
+  "uppercase": true,
+  "hook": true
+ },
+ "clips": [
+  {
+   "id": "01-tiger",
+   "account": "Clip 1",
+   "start": 1058.0,
+   "end": 1091.0,
+   "hook": "Speed finds a TIGER in GTA 6",
+   "reframe": "stack",
+   "facecam": {
+    "x": 4,
+    "y": 466,
+    "w": 380,
+    "h": 234
+   },
+   "game": {
+    "x": 300,
+    "y": 60,
+    "w": 1320,
+    "h": 960
+   },
+   "tighten": false,
+   "fillers": false,
+   "snap": false,
+   "punch": false
+  },
+  {
+   "id": "02-plane",
+   "account": "Clip 2",
+   "start": 1592.0,
+   "end": 1653.0,
+   "cut": [
+    [
+     1599.5,
+     1605.4
+    ],
+    [
+     1628.6,
+     1643.0
+    ]
+   ],
+   "hook": "Speed flies a plane with zero clue",
+   "reframe": "stack",
+   "facecam": {
+    "x": 4,
+    "y": 466,
+    "w": 380,
+    "h": 234
+   },
+   "game": {
+    "x": 300,
+    "y": 60,
+    "w": 1320,
+    "h": 960
+   },
+   "tighten": false,
+   "fillers": false,
+   "snap": false,
+   "punch": false
+  },
+  {
+   "id": "03-real",
+   "account": "Clip 3",
+   "start": 1976.5,
+   "end": 2020.0,
+   "hook": "Speed can't believe GTA 6 is real",
+   "reframe": "stack",
+   "facecam": {
+    "x": 4,
+    "y": 466,
+    "w": 380,
+    "h": 234
+   },
+   "game": {
+    "x": 300,
+    "y": 60,
+    "w": 1320,
+    "h": 960
+   },
+   "tighten": false,
+   "fillers": false,
+   "snap": false,
+   "punch": false
+  },
+  {
+   "id": "04-son",
+   "account": "Clip 4",
+   "start": 775.0,
+   "end": 801.0,
+   "hook": "Speed just found out he has a son",
+   "reframe": "stack",
+   "facecam": {
+    "x": 4,
+    "y": 466,
+    "w": 380,
+    "h": 234
+   },
+   "game": {
+    "x": 300,
+    "y": 60,
+    "w": 1320,
+    "h": 960
+   },
+   "tighten": false,
+   "fillers": false,
+   "snap": false,
+   "punch": false
+  },
+  {
+   "id": "05-stickup",
+   "account": "Clip 5",
+   "start": 254.0,
+   "end": 294.5,
+   "hook": "GTA 6's first robbery goes crazy",
+   "reframe": "stack",
+   "facecam": {
+    "x": 4,
+    "y": 466,
+    "w": 380,
+    "h": 234
+   },
+   "game": {
+    "x": 300,
+    "y": 60,
+    "w": 1320,
+    "h": 960
+   },
+   "tighten": false,
+   "fillers": false,
+   "snap": false,
+   "punch": false
+  }
+ ]
+}
